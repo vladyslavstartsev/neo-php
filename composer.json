@@ -1,5 +1,5 @@
 {
-    "name": "cityofzion/neo-php-test",
+    "name": "vladyslavstartsev/neo-php-test",
     "description": "NEO blockchain implementation for PHP",
     "type": "library",
     "license": "MIT",
